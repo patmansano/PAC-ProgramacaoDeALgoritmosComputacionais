@@ -1,6 +1,6 @@
 # PAC - Projetos De ALgoritmos Computacionais
 
-Exercícios da Disciplina Programação de Algoritmos Computacionais - PAC - 1º Período - Curso: Ciência da Computação
+Exercícios da Disciplina Projetos de Algoritmos Computacionais - PAC - 1º Período - Curso: Ciência da Computação
 
 ### Ementa
 <p> 
